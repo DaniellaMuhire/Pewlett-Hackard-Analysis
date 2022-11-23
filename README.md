@@ -2,7 +2,7 @@
 
 ## Overview of the analysis
 
-Our analysis consists of determining, from the data provided by Pewlett Hackard, which employee will retire in the next few years and how many positions the company will need to fill. We determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program  This analysis will prepare Pewlett Hackard for the future by generating a list of all employees eligible for the retirement plan. We build an employee database with SQL by applying data modelling, engineering and analysis skills. 
+Our analysis consists of determining, from the data provided by Pewlett Hackard, which employee will retire in the next few years and how many positions the company will need to fill. We determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. This analysis will prepare Pewlett Hackard for the future by generating a list of all employees eligible for the retirement plan. We build an employee database with SQL by applying data modelling, engineering and analysis skills. 
 
 
 ## Results
